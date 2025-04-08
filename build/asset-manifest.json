@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.40ba8e27.css",
-    "main.js": "/static/js/main.4449dfbb.js",
+    "main.css": "/static/css/main.e41f6508.css",
+    "main.js": "/static/js/main.b7554603.js",
     "static/js/453.0f4803fb.chunk.js": "/static/js/453.0f4803fb.chunk.js",
-    "static/media/Bhavana.pdf": "/static/media/Bhavana.5573f7a580b20bdf9b80.pdf",
     "index.html": "/index.html",
-    "main.40ba8e27.css.map": "/static/css/main.40ba8e27.css.map",
-    "main.4449dfbb.js.map": "/static/js/main.4449dfbb.js.map",
+    "main.e41f6508.css.map": "/static/css/main.e41f6508.css.map",
+    "main.b7554603.js.map": "/static/js/main.b7554603.js.map",
     "453.0f4803fb.chunk.js.map": "/static/js/453.0f4803fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40ba8e27.css",
-    "static/js/main.4449dfbb.js"
+    "static/css/main.e41f6508.css",
+    "static/js/main.b7554603.js"
   ]
 }
